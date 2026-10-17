@@ -1,0 +1,5 @@
+uploads/*
+!uploads/.gitkeep
+venv/
+__pycache__/
+*.py[cod]
